@@ -1,0 +1,11 @@
+C:\Users\Jeziel\RiderProjects\cadastroDeSeries\Classes\bin\Debug\Classes.dll
+C:\Users\Jeziel\RiderProjects\cadastroDeSeries\Classes\bin\Debug\Classes.pdb
+C:\Users\Jeziel\RiderProjects\cadastroDeSeries\Classes\bin\Debug\Enum.dll
+C:\Users\Jeziel\RiderProjects\cadastroDeSeries\Classes\bin\Debug\Interface.dll
+C:\Users\Jeziel\RiderProjects\cadastroDeSeries\Classes\bin\Debug\Enum.pdb
+C:\Users\Jeziel\RiderProjects\cadastroDeSeries\Classes\bin\Debug\Interface.pdb
+C:\Users\Jeziel\RiderProjects\cadastroDeSeries\Classes\obj\Debug\Classes.csprojAssemblyReference.cache
+C:\Users\Jeziel\RiderProjects\cadastroDeSeries\Classes\obj\Debug\Classes.csproj.CoreCompileInputs.cache
+C:\Users\Jeziel\RiderProjects\cadastroDeSeries\Classes\obj\Debug\Classes.csproj.CopyComplete
+C:\Users\Jeziel\RiderProjects\cadastroDeSeries\Classes\obj\Debug\Classes.dll
+C:\Users\Jeziel\RiderProjects\cadastroDeSeries\Classes\obj\Debug\Classes.pdb

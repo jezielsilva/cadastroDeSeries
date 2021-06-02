@@ -1,0 +1,6 @@
+C:\Users\Jeziel\RiderProjects\cadastroDeSeries\Enum\bin\Debug\Enum.dll
+C:\Users\Jeziel\RiderProjects\cadastroDeSeries\Enum\bin\Debug\Enum.pdb
+C:\Users\Jeziel\RiderProjects\cadastroDeSeries\Enum\obj\Debug\Enum.csprojAssemblyReference.cache
+C:\Users\Jeziel\RiderProjects\cadastroDeSeries\Enum\obj\Debug\Enum.csproj.CoreCompileInputs.cache
+C:\Users\Jeziel\RiderProjects\cadastroDeSeries\Enum\obj\Debug\Enum.dll
+C:\Users\Jeziel\RiderProjects\cadastroDeSeries\Enum\obj\Debug\Enum.pdb

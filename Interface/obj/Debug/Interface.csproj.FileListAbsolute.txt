@@ -1,0 +1,6 @@
+C:\Users\Jeziel\RiderProjects\cadastroDeSeries\Interface\bin\Debug\Interface.dll
+C:\Users\Jeziel\RiderProjects\cadastroDeSeries\Interface\bin\Debug\Interface.pdb
+C:\Users\Jeziel\RiderProjects\cadastroDeSeries\Interface\obj\Debug\Interface.csprojAssemblyReference.cache
+C:\Users\Jeziel\RiderProjects\cadastroDeSeries\Interface\obj\Debug\Interface.csproj.CoreCompileInputs.cache
+C:\Users\Jeziel\RiderProjects\cadastroDeSeries\Interface\obj\Debug\Interface.dll
+C:\Users\Jeziel\RiderProjects\cadastroDeSeries\Interface\obj\Debug\Interface.pdb
